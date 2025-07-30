@@ -17,16 +17,20 @@ To find out who owns a registered domain name, use a whois service.  The linked 
 - Notice many registration values are displayed as "REDACTED FOR PRIVACY" and this often indicates that the registrar is withholding information in regard to the registration details of the domain to protect the PII of personnel at the organization.
 
 **ARIN lookup**:
-   <img width="524" height="407" alt="image" src="https://github.com/user-attachments/assets/25b991b5-76e0-43ac-b4f5-f93f4d06078c" />
-   <img width="547" height="299" alt="image" src="https://github.com/user-attachments/assets/38b035d7-d2b1-4ff9-9984-b074599cd72a" />
+
+  <img width="524" height="407" alt="image" src="https://github.com/user-attachments/assets/25b991b5-76e0-43ac-b4f5-f93f4d06078c" />
+  <img width="547" height="299" alt="image" src="https://github.com/user-attachments/assets/38b035d7-d2b1-4ff9-9984-b074599cd72a" />
+ 
 - By doing further research you will learn that M247 is a reputable company that offers Internet services all throughout Europe.  Consequently, this information is not very helpful in identifying the sender of the dubious email.  There is no assurance that the IP address was not spoof, but it does suggest that the source may have been in Paris. Additionally, the first line of "Source Registry" in the ARIN search results shows that the IP address is registered with the RIPE NCC RIR (Regional Internet Registry) instead of ARIN.  From the ARIN header menu, choose About, then Our Region, and finally Regional Internet Registry Regions to see the regional responsibilities for the five RIRs.
 
 **Abuseipdb**:
-  <img width="404" height="257" alt="image" src="https://github.com/user-attachments/assets/39d424e9-ac9f-4a9a-a20a-f48c1b4f49d5" />
-  <img width="554" height="248" alt="image" src="https://github.com/user-attachments/assets/82da8ea6-1e18-4dae-97e8-b9f39c6a6dc3" />
-  <img width="665" height="334" alt="image" src="https://github.com/user-attachments/assets/4c1d5a84-add4-4e88-b8d0-aec6c51d8a68" />
-  <img width="650" height="236" alt="image" src="https://github.com/user-attachments/assets/ed91df14-ac83-405a-b6ab-dea1d4d653b5" />
-  <img width="593" height="247" alt="image" src="https://github.com/user-attachments/assets/811578e1-eebf-4c8f-8864-8b51830b1169" />
+
+
+   <img width="404" height="257" alt="image" src="https://github.com/user-attachments/assets/39d424e9-ac9f-4a9a-a20a-f48c1b4f49d5" />
+   <img width="554" height="248" alt="image" src="https://github.com/user-attachments/assets/82da8ea6-1e18-4dae-97e8-b9f39c6a6dc3" />
+   <img width="665" height="334" alt="image" src="https://github.com/user-attachments/assets/4c1d5a84-add4-4e88-b8d0-aec6c51d8a68" />
+   <img width="650" height="236" alt="image" src="https://github.com/user-attachments/assets/ed91df14-ac83-405a-b6ab-dea1d4d653b5" />
+   <img width="593" height="247" alt="image" src="https://github.com/user-attachments/assets/811578e1-eebf-4c8f-8864-8b51830b1169" />
 
 
 
